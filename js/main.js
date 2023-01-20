@@ -5,7 +5,7 @@ the let statement create a variable - a chunk of computer memory that can hold r
 save. we're storing a reference to an element on the page with this line - look for the
 element with the ID we specify inside of the round brackets (the image tag with the ID of bitmapGraphic)
 
-doci=ument refers to the index.html page; queryselector
+document refers to the index.html page; queryselector
 is HOW JS uses CSS to select elements on the page 
 (called a method)*/
 
